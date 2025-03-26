@@ -36,7 +36,7 @@ def app():
         st.markdown("<div class='title'>TRUONG HUU LOI</div>", unsafe_allow_html=True)
         st.markdown("<div class='subheader'>Project Process Analyst</div>", unsafe_allow_html=True)
         st.markdown("<div class='text'>📍 Go Vap, Ho Chi Minh | 📧 loitruong266@gmail.com | 📱 +84-778103692</div>", unsafe_allow_html=True)
-        st.markdown("[LinkedIn](linkedin_link) | [GitHub](github_link)")
+        st.markdown("[LinkedIn](https://www.linkedin.com/in/truonghuuloiforwork/) | [GitHub](github_link)")
 
     with col2:
         st.image("4x6.jpg", width=200, caption="Personal Photo")
