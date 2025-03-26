@@ -39,7 +39,7 @@ def app():
         st.markdown("[LinkedIn](linkedin_link) | [GitHub](github_link)")
 
     with col2:
-        st.image("C:/Users/loitruong/OneDrive - JAPFA/Japfa/PythonSnowflake/4x6.jpg", width=200, caption="Personal Photo")
+        st.image("4x6.jpg", width=200, caption="Personal Photo")
 
 
     # Navigation Tabs
